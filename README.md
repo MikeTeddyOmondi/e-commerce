@@ -1,3 +1,3 @@
-### E-Commerce Online Store
+## E-Commerce Online Store
 
-## Technology & frameworks used: Python | Flask
+### Technology & frameworks used: Python | Flask
